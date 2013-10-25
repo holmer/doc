@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.5.1">
+  <zoom_level>17</zoom_level>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>153</x>
+      <y>357</y>
+      <w>136</w>
+      <h>204</h>
+    </coordinates>
+    <panel_attributes>User</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>459</x>
+      <y>374</y>
+      <w>204</w>
+      <h>68</h>
+    </coordinates>
+    <panel_attributes>print a ticket</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>238</x>
+      <y>357</y>
+      <w>254</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>221;51;51;51</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>85</x>
+      <y>153</y>
+      <w>170</w>
+      <h>85</h>
+    </coordinates>
+    <panel_attributes>An actor</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>544</x>
+      <y>153</y>
+      <w>170</w>
+      <h>85</h>
+    </coordinates>
+    <panel_attributes>A use case</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>119</x>
+      <y>187</y>
+      <w>118</w>
+      <h>186</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>85;153;51;51</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>527</x>
+      <y>187</y>
+      <w>135</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>51;187;102;51</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>323</x>
+      <y>561</y>
+      <w>170</w>
+      <h>85</h>
+    </coordinates>
+    <panel_attributes>Initiation
+relationship</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>340</x>
+      <y>374</y>
+      <w>101</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>51;51;68;187</additional_attributes>
+  </element>
+</diagram>
