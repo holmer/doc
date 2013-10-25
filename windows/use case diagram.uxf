@@ -104,4 +104,26 @@ relationship</panel_attributes>
 </panel_attributes>
     <additional_attributes>51;51;68;187</additional_attributes>
   </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>765</x>
+      <y>459</y>
+      <w>170</w>
+      <h>51</h>
+    </coordinates>
+    <panel_attributes>SimpleClass</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>595</x>
+      <y>187</y>
+      <w>288</w>
+      <h>305</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>51;51;255;272</additional_attributes>
+  </element>
 </diagram>
